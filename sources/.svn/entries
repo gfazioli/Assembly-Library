@@ -1,0 +1,52 @@
+8
+
+dir
+177
+https://undolibrary.googlecode.com/svn/trunk/assembly/motorola_68x00/Assembly%20Library/SOURCE
+https://undolibrary.googlecode.com/svn
+
+
+
+2009-02-13T21:54:28.918746Z
+148
+g.fazioli@undolog.com
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+5d56b4e0-914c-0410-a289-093a34f3096f
+
+CDOC.INC
+file
+
+
+
+
+2009-10-30T21:53:34.000000Z
+e2613aa0cd1209c5fb8464c592a98c17
+2009-02-13T21:54:28.918746Z
+148
+g.fazioli@undolog.com
+
+AUTODOC.INC
+file
+
+
+
+
+2009-10-30T21:53:34.000000Z
+c946f7d55bbdef8b1b30c000978785e1
+2009-02-13T21:54:28.918746Z
+148
+g.fazioli@undolog.com
+
